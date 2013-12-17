@@ -9,9 +9,9 @@ Some sites load images through JavaScript, and it can be troublesome to scrape t
 
 HAR Format
 ----------
-http://www.softwareishard.com/blog/har-viewer/
+* http://www.softwareishard.com/blog/har-viewer/
 
 Interesting sites
 -----------------
-http://bav.bodleian.ox.ac.uk/
-http://zoom.it/
+* http://bav.bodleian.ox.ac.uk/
+* http://zoom.it/
