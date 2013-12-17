@@ -11,7 +11,7 @@ HAR Format
 ----------
 * http://www.softwareishard.com/blog/har-viewer/
 
-Interesting sites
+Interesting Sites
 -----------------
-* http://bav.bodleian.ox.ac.uk/
+* http://bav.bodleian.ox.ac.uk/ - Uses OpenSeadragon for Deep Zoom images, based on Microsoft's Seadragon platform.
 * http://zoom.it/
